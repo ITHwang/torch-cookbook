@@ -162,3 +162,7 @@ cython_debug/
 # colab
 .ipynb_checkpoints
 config.ipynb
+
+# cloudflare
+cloudflared
+cloudflared.log
