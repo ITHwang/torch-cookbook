@@ -1,0 +1,11 @@
+seed_everything: null
+trainer:
+  logger: true
+model:
+  class_path: lightning.pytorch.demos.boring_classes.DemoModel
+  init_args:
+    out_dim: 10
+    learning_rate: 0.02
+data:
+  data_dir: ./
+ckpt_path: null

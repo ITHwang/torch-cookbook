@@ -166,3 +166,6 @@ config.ipynb
 # cloudflare
 cloudflared
 cloudflared.log
+
+# lightning
+lightning_logs/
