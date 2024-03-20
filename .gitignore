@@ -161,4 +161,4 @@ cython_debug/
 
 # colab
 .ipynb_checkpoints
-git.ipynb
+config.ipynb
